@@ -11,12 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaitoq&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiaitoq&theme=radical" alt="GitHub Streak Stats"/>
-</div>
 <br>
 <br>
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaitoq&theme=radical)
 
