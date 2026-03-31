@@ -1,21 +1,71 @@
-<h2 align="left"> Hi I'm Leticia </h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AA2D&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Leticia!;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=140&section=header" width="100%" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiaitoq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaitoq&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
-<br>
-<br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaitoq&theme=radical)
+# Leticia
+
+Desenvolvedora back-end em formação  
+Foco em APIs, dados e construção de sistemas
+
+</div>
+
+---
+
+## Sobre
+
+Atualmente desenvolvendo projetos práticos com foco em back-end.  
+Buscando evoluir na construção de APIs, organização de código  
+e integração com bancos de dados.
+
+---
+
+## Stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leticiaitoq&color=green" alt="Contador de visualizações do perfil"/>
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker" />
+
 </div>
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiaitoq&bg_color=0d1117&color=8b949e&line=58a6ff&point=8b949e&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake.svg" width="90%" />
+  </picture>
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="mailto:leticiaquadre@gmail.com">Email</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leticiaitoq&color=555555&style=flat" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=100&section=footer" width="100%" />
