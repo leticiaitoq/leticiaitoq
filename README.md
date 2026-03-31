@@ -45,11 +45,7 @@ e integração com bancos de dados.
 ## 🐍 Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/github-contribution-grid-snake.svg" width="90%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/leticiaitoq/leticiaitoq/output/snake.svg" width="90%" />
 </div>
 
 ---
