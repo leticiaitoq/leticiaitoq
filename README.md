@@ -41,8 +41,8 @@ e integração com bancos de dados.
 
 <div align="center">
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaitoq&layout=compact&theme=dark&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true" 
-  width="60%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaitoq&theme=github_dark&hide_border=true" 
+  width="40%"
 />
 </div>
 
