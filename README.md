@@ -37,6 +37,15 @@ e integração com bancos de dados.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=2" width="100%" />
 
+<h2>Linguagens</h2>
+
+<div align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaitoq&layout=compact&theme=dark&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true" 
+  width="60%" 
+/>
+</div>
+
 <h2>Atividade</h2>
 
 <div align="center">
