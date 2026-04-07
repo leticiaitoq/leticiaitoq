@@ -40,10 +40,7 @@ e integração com bancos de dados.
 <h2>Linguagens</h2>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaitoq&layout=compact&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
+  <img src="./assets/top-langs.svg" height="180"/>
 </div>
 
 <h2>Atividade</h2>
